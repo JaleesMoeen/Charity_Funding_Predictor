@@ -53,6 +53,7 @@ Achievement of Target Model Performance: Achieved a satisfactory balanced accura
 - **Epochs:** Increased the number of epochs to allow for more training.
 
 
+![Alt text](images/3_optimized_model.png)
 
 
 
