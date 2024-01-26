@@ -47,6 +47,10 @@ attemt 2  3 apply name columnss
 Achievement of Target Model Performance: Achieved a satisfactory balanced accuracy, precision, and recall.
 
 **Steps to Increase Model Performance:**
+
+To optimize model performance to get more accuracy and less loss. I went through these different alterations:
+
+- **Changes in Data:** Removed extra irrelevant columns from the input dataset and generating additional bins for infrequent instances in columns while modifying the count of values within each bin.
 - **Iterative Tuning:** Adjusted the number of neurons, layers, and activation functions iteratively.
 - **Optimization Techniques:** Experimented with different optimizers and learning rates.
 - **Regularization:** Implemented dropout layers for regularization.
@@ -56,12 +60,33 @@ Achievement of Target Model Performance: Achieved a satisfactory balanced accura
 ![Alt text](images/3_optimized_model.png)
 
 
+## Summary
 
+With an accuracy of 78% and a loss of 47%, the overall results of the deep learning model indicate a moderately effective predictive performance. 
+
+I tried with deep learning modeling, but if we consider to try with some other model, the, probably, I recommend to use tree based modeling as the tree based algorithm offer better explainability. But the accuacy might be less using tree based so we can aslo try with ensembling learning approach which helps us to improve generalization, robustness, and better performance.
+
+
+While the deep learning model demonstrated effectiveness, exploring alternative models like the Random Forest Classifier ensures a more comprehensive understanding of the data. Such exploration can unveil nuances and contribute to a well-rounded predictive solution. The recommendation is to conduct a comparative analysis, leveraging the interpretability and ensemble benefits offered by the Random Forest model to gain deeper insights into the funding success prediction problem.
 
 
 ## Author
 
 ## [Jalees Moeen GitHub](https://github.com/JaleesMoeen)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
