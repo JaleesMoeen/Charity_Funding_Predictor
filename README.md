@@ -25,9 +25,7 @@ The model is trained on a dataset comprising information from over 34,000 organi
 
 **Inclusion of `NAME` in the last model:** The feature variable `NAME` has been reintroduced in the final model.
 
-atrempt 1 and 2 i made these changes
 
-attemt 2  3 apply name columnss
 
 
 
